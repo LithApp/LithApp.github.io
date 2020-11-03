@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Lith.app
 description: Lit(h)
+show_downloads: true
